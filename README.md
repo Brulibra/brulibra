@@ -1,36 +1,30 @@
-### Oi oi, me chamo Bruna de Paula <br> seja bem-vinda(o) ✌️✌️
+<h1 align="center"> Oi oi, me chamo Bruna de Paula <br> seja bem-vinda(o) ✌️✌️</h1>
+<h3 align="center">Sou estudante de Front-end na Laboratória</h3>
+ 
+<div align="center">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=brulibra&label=Profile%20views&color=0e75b6&style=flat" alt="brulibra" /> </p>
 
-<!-- <div align="center">
-  <a href="https://github.com/Brulibra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brulibra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brulibra&layout=compact&langs_count=5&theme=tokyonight"/>
-	</a>
-</div> -->
+👨‍💻 Atualmente estou trabalhando no [Pop Time](https://github.com/ThamaraBortolin/SAP007-social-network)
+
+📝 Atualmente estou estudando sobre **Firebase, mas ele não coopera**
+</div>
+
+<div style="display: inline_block"><br>
+<h3>Connect with me:</h3>
+<p>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/brunadpaula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/brunadpaula" height="30" width="40" /></a>
+<a href="https://discord.gg/brulibra #6990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="brulibra #6990" height="30" width="40" /></a>
+</p>
+
+<h3>Languages and Tools:</h3>
+<p> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+</div>
 
 ##
 
-<!-- <div style="display: inline_block"><br>
-	<a href = "mailto:brulibra03@hotmail.com" target ="_blank"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-	<a href = "www.linkedin.com/in/brunadpaula" target = "_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-	<a href = "https://discord.gg/Brulibra#6990" target = "_blank"> <img src ="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> </a> 
-</div> 
-
-arrumar link LinkedIn e Discord colocar Slack -> Email Ok
--->
-
-<!--
-**Brulibra/brulibra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 Atualmente estou estudando para me tornar desenvolvedora Front-end
-- 🌱 Aprendendo sobre Firebase no momento
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ... 
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=brulibra&show_icons=true&locale=en&theme=tokyonight" alt="brulibra" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brulibra&theme=tokyonight" alt="brulibra" />
+<div/>
 
 <!-- ![Snake animation](https://github.com/brulibra/brulibra/blob/output/github-contribution-grid-snake.svg) -->
