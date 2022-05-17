@@ -22,7 +22,7 @@
 
 ##
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=brulibra&show_icons=true&locale=en&theme=tokyonight" alt="brulibra" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brulibra&theme=tokyonight" alt="brulibra" />
 <div/>
