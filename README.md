@@ -2,7 +2,7 @@
 <h3 align="center">Sou estudante de Front-end na Laboratória</h3>
  
 <div align="center">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=brulibra&label=Profile%20views&color=0e75b6&style=flat" alt="brulibra" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=brulibra&label=Profile%20views&color=0e75b6&style=flat" alt="brulibra" /> </p> -->
 
 👨‍💻 Atualmente estou trabalhando no [Pop Time](https://github.com/ThamaraBortolin/SAP007-social-network)
 
