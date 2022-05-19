@@ -4,9 +4,13 @@
 <div align="center">
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=brulibra&label=Profile%20views&color=0e75b6&style=flat" alt="brulibra" /> </p> -->
 
-👨‍💻 Atualmente estou trabalhando no [Pop Time](https://github.com/ThamaraBortolin/SAP007-social-network)
+👨‍💻 Atualmente estou trabalhando no [Burguer Queen](https://github.com/Brulibra/sap007-burger-queen-api-client) 🚧
+ 
+ 🗂️ Confira outros Projetos:
+  <br>[Pop Time](https://github.com/Brulibra/SAP007-social-network)
+  <br>[Ghibli`s Tour](https://github.com/Brulibra/SAAP-Ghibli-s-Tour)
 
-📝 Atualmente estou estudando sobre **Firebase, mas ele não coopera**
+📝 Atualmente estou estudando sobre **REACT** <img src="https://user-images.githubusercontent.com/97756820/169338768-b5ba5213-34db-400c-9e9e-a3afaf01e84f.gif" height="30" width="auto">
 </div>
 
 <div style="display: inline_block"><br>
