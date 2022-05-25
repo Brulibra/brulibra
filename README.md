@@ -10,11 +10,10 @@
   <br>[Pop Time](https://github.com/Brulibra/SAP007-social-network)
   <br>[Ghibli`s Tour](https://github.com/Brulibra/SAAP-Ghibli-s-Tour)
 
-📝 Também estou estudando sobre **REACT** </br> e está sendo um misto de <img src="https://user-images.githubusercontent.com/97756820/169338768-b5ba5213-34db-400c-9e9e-a3afaf01e84f.gif" height="30" width="auto"> com <img src="https://user-images.githubusercontent.com/97756820/170291094-1e64f145-d87b-4f87-9dba-4478996fdb85.gif" height="30" width="auto">
+📝 Também estou estudando sobre **REACT** </br></br> e está sendo um misto de <img src="https://user-images.githubusercontent.com/97756820/169338768-b5ba5213-34db-400c-9e9e-a3afaf01e84f.gif" height="30" width="auto"> com <img src="https://user-images.githubusercontent.com/97756820/170291094-1e64f145-d87b-4f87-9dba-4478996fdb85.gif" height="30" width="auto">
 </div>
 
-
-
+##
 
 <div style="display: inline_block"><br>
 <h3 align="center">Connect with me:</h3>
