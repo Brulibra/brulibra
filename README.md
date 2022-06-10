@@ -1,36 +1,57 @@
-<h1 align="center"> Oi oi, me chamo Bruna de Paula <br> seja bem-vinda(o) ✌️✌️</h1>
-<h3 align="center">Sou estudante de Front-end na Laboratória</h3>
- 
-<div align="center">
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=brulibra&label=Profile%20views&color=0e75b6&style=flat" alt="brulibra" /> </p> -->
+<img src="https://github.com/Brulibra/brulibra/blob/main/bannerGitHub.gif" alt="banner"/>
+
+##
+
+👩🏻 Meu nome é Bruna de Paula, tenho 23 anos e sou de São Paulo, capital. Sou estudante de Front-end na [Laboratória](https://github.com/Laboratoria) e recém graduada em Audiovisual, em transição de carreira para a área de tecnologia. Meu interesse pela área começou ainda na faculdade, quando comecei a perceber o Audiovisual como uma ferramenta usada nos meios digitais. Além de ter podido trabalhar em projetos que foram pouco a pouco me aproximando desse universo que não para de me surpreender!
 
 👨‍💻 Atualmente estou trabalhando no [Burguer Queen](https://github.com/Brulibra/sap007-burger-queen-api-client) 🚧
+
+📝 Para o [Burguer Queen](https://github.com/Brulibra/sap007-burger-queen-api-client) estou estudando sobre **REACT** e **API**, e está sendo um verdadeiro misto de sentimentos, melhor explicado por:
+<div align="center">
+<img src="https://user-images.githubusercontent.com/97756820/169338768-b5ba5213-34db-400c-9e9e-a3afaf01e84f.gif" height="80" width="auto"> <img src="https://user-images.githubusercontent.com/97756820/170291094-1e64f145-d87b-4f87-9dba-4478996fdb85.gif" height="80" width="auto">
+ </div>
+ 
+ ##
+ 
+<div style="display: inline_block"><br>
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=brulibra&show_icons=true&locale=en&theme=tokyonight" alt="brulibra" /> -->
+<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brulibra&theme=tokyonight" alt="brulibra" /> -->
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brulibra&theme=tokyonight" alt="brulibra" /> -->
+ <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brulibra&theme=tokyonight" alt="brulibra" width="100%" height="auto"  />
+ <img align="center" src="https://activity-graph.herokuapp.com/graph?username=brulibra&theme=dracula" alt="brulibra" width="100%" height="auto"  />
+<div/>
+ 
+ 
+ ##
+ 
+ <h3>Me encontre em...</h3>
+
+* LinkedIn : <a href="https://www.linkedin.com/in/brunadpaula" target="_blank">Bruna de Paula</a>
+* Email: brulibra03@hotmail.com 
+* Discord: Brulibra #6990
  
  🗂️ Confira outros Projetos:
-  <br>[Pop Time](https://github.com/Brulibra/SAP007-social-network)
-  <br>[Ghibli`s Tour](https://github.com/Brulibra/SAAP-Ghibli-s-Tour)
+  * [Pop Time](https://github.com/Brulibra/SAP007-social-network)
+  * [Ghibli's Tour](https://github.com/Brulibra/SAAP-Ghibli-s-Tour)
 
-📝 Também estou estudando sobre **REACT** </br></br> e está sendo um misto de <img src="https://user-images.githubusercontent.com/97756820/169338768-b5ba5213-34db-400c-9e9e-a3afaf01e84f.gif" height="30" width="auto"> com <img src="https://user-images.githubusercontent.com/97756820/170291094-1e64f145-d87b-4f87-9dba-4478996fdb85.gif" height="30" width="auto">
-</div>
-
-##
-
-<div style="display: inline_block"><br>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/brunadpaula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/brunadpaula" height="30" width="40" /></a>
-<a href="https://discord.gg/brulibra #6990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="brulibra #6990" height="30" width="40" /></a>
-</p>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
-</div>
-
-##
-
-<div style="display: inline_block" align="center"><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=brulibra&show_icons=true&locale=en&theme=tokyonight" alt="brulibra" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brulibra&theme=tokyonight" alt="brulibra" />
-<div/>
+ ##
+ <h3>Linguagens e Ferramentas</h3>
+ 
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html">
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css">
+ <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript">
+ <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown">
+ <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest">
+ <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git">
+ <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github">
+ <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase">
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react">
+ <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="eslint">
+ <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode">
+ <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows">
+ <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma">
+ <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva">
+ <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="notion">
+ <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="trello">
 
 <!-- ![Snake animation](https://github.com/brulibra/brulibra/blob/output/github-contribution-grid-snake.svg) -->
