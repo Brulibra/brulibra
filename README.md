@@ -2,7 +2,7 @@
 
 ##
 
-👩🏻 Meu nome é Bruna de Paula, tenho 23 anos e sou de São Paulo, capital. Sou estudante de Front-end na [Laboratória](https://github.com/Laboratoria) e recém graduada em Audiovisual, em transição de carreira para a área de tecnologia. Meu interesse pela área começou ainda na faculdade, quando comecei a perceber o Audiovisual como uma ferramenta usada nos meios digitais. Além de ter podido trabalhar em projetos que foram pouco a pouco me aproximando desse universo que não para de me surpreender!
+👩🏻 Meu nome é Bruna de Paula, tenho 23 anos e sou de São Paulo, capital. Sou Desenvolvedora Web, formada pela [Laboratória](https://github.com/Laboratoria) e recém graduada em Audiovisual, em transição de carreira para a área de tecnologia. Meu interesse pela área começou ainda na faculdade, quando comecei a perceber o Audiovisual como uma ferramenta usada nos meios digitais, além de ter podido trabalhar em projetos que foram pouco a pouco me aproximando desse universo que não para de me surpreender!
 
 👨‍💻 Atualmente estou trabalhando no [Burguer Queen](https://github.com/Brulibra/sap007-burger-queen-api-client) 🚧
 
