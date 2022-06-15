@@ -24,17 +24,7 @@
   * [Ghibli's Tour](https://github.com/Brulibra/SAAP-Ghibli-s-Tour)
  
  ##
- 
-<div style="display: inline_block"><br>
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=brulibra&show_icons=true&locale=en&theme=tokyonight" alt="brulibra" /> -->
-<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brulibra&theme=tokyonight" alt="brulibra" /> -->
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brulibra&theme=tokyonight" alt="brulibra" /> -->
- <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brulibra&theme=tokyonight" alt="brulibra" width="100%" height="auto"  />
- <img align="center" src="https://activity-graph.herokuapp.com/graph?username=brulibra&theme=dracula" alt="brulibra" width="100%" height="auto"  />
-<div/>
- 
- 
- ##
+ <div style="display: inline_block">
  <h3>Linguagens e Ferramentas</h3>
  
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html">
@@ -53,5 +43,18 @@
  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva">
  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="notion">
  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="trello">
+ </div>
+ 
+ ##
+ 
+<div style="display: inline_block"><br>
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=brulibra&show_icons=true&locale=en&theme=tokyonight" alt="brulibra" /> -->
+<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brulibra&theme=tokyonight" alt="brulibra" /> -->
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brulibra&theme=tokyonight" alt="brulibra" /> -->
+ <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brulibra&theme=tokyonight" alt="brulibra" width="100%" height="auto"  />
+ <img align="center" src="https://activity-graph.herokuapp.com/graph?username=brulibra&theme=dracula" alt="brulibra" width="100%" height="auto"  />
+<div/>
+ 
+ 
 
 <!-- ![Snake animation](https://github.com/brulibra/brulibra/blob/output/github-contribution-grid-snake.svg) -->
