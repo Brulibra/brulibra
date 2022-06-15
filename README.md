@@ -11,6 +11,18 @@
 <img src="https://user-images.githubusercontent.com/97756820/169338768-b5ba5213-34db-400c-9e9e-a3afaf01e84f.gif" height="80" width="auto"> <img src="https://user-images.githubusercontent.com/97756820/170291094-1e64f145-d87b-4f87-9dba-4478996fdb85.gif" height="80" width="auto">
  </div>
  
+  ##
+ 
+ <h3>Me encontre em...</h3>
+
+* LinkedIn : <a href="https://www.linkedin.com/in/brunadpaula" target="_blank">Bruna de Paula</a>
+* Email: brulibra03@hotmail.com 
+* Discord: Brulibra #6990
+ 
+ 🗂️ Confira outros Projetos:
+  * [Pop Time](https://github.com/Brulibra/SAP007-social-network)
+  * [Ghibli's Tour](https://github.com/Brulibra/SAAP-Ghibli-s-Tour)
+ 
  ##
  
 <div style="display: inline_block"><br>
@@ -22,18 +34,6 @@
 <div/>
  
  
- ##
- 
- <h3>Me encontre em...</h3>
-
-* LinkedIn : <a href="https://www.linkedin.com/in/brunadpaula" target="_blank">Bruna de Paula</a>
-* Email: brulibra03@hotmail.com 
-* Discord: Brulibra #6990
- 
- 🗂️ Confira outros Projetos:
-  * [Pop Time](https://github.com/Brulibra/SAP007-social-network)
-  * [Ghibli's Tour](https://github.com/Brulibra/SAAP-Ghibli-s-Tour)
-
  ##
  <h3>Linguagens e Ferramentas</h3>
  
