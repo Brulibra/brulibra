@@ -1,13 +1,14 @@
-<img src="https://github.com/Brulibra/brulibra/blob/main/bannerGitHub.gif" alt="banner"/>
+<img src="https://github.com/Brulibra/brulibra/blob/main/BannerGitHub.gif" alt="banner"/>
 
 ##
 
-👩🏻 Meu nome é Bruna de Paula, tenho 23 anos e sou de São Paulo, capital. Sou Desenvolvedora Front-End, formada pela [Laboratória](https://github.com/Laboratoria) e recém graduada em Audiovisual, em transição de carreira para a área de tecnologia. Meu interesse pela área começou ainda na faculdade, quando comecei a perceber o Audiovisual como uma ferramenta usada nos meios digitais, além de ter podido trabalhar em projetos que foram pouco a pouco me aproximando desse universo que não para de me surpreender!
+👩🏻 Meu nome é Bruna de Paula, tenho 24 anos e sou de São Paulo, capital. Sou graduada em Audiovisual, e meu interesse pela tecnologia começou ainda na faculdade quando trabalhei em projetos que foram pouco a pouco me aproximando da área, logo que terminei a faculdade, fiz a transição de carreira para a área da tecnologia através do bootcamp da Laboratória, me formando desenvolvedora front-end <3
 
 <div align="center">
 
-📝 Atualmente estou estudando [Vue 3](https://github.com/Brulibra/treinamentoVue3) , no melhor estilo <img src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" height="100" width="auto">
+📝 Atualmente estou estudando Flutter, e me aprofundando no universo mobile <img src="https://user-images.githubusercontent.com/97756820/210078489-daa3ae19-d8ed-415e-b41e-9f124e109fef.gif" height="100" width="auto">
 	</div>
+
 
 	
   ##
@@ -26,10 +27,11 @@
  ##
  <div style="display: inline_block">
  <h3>Linguagens e Ferramentas</h3>
- 
+  
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html">
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css">
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript">
+ <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 	<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react">
 	<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="vue">
 	<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase">
@@ -40,6 +42,7 @@
  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github">
  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode">
  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows">
+<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma">
  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva">
  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="notion">
@@ -49,11 +52,11 @@
  ##
  
 <div style="display: inline_block"><br>
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=brulibra&show_icons=true&locale=en&theme=tokyonight" alt="brulibra" /> -->
-<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brulibra&theme=tokyonight" alt="brulibra" /> -->
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brulibra&theme=tokyonight" alt="brulibra" /> -->
- <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brulibra&theme=tokyonight" alt="brulibra" width="100%" height="auto"  />
- <img align="center" src="https://activity-graph.herokuapp.com/graph?username=brulibra&theme=dracula" alt="brulibra" width="100%" height="auto"  />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=brulibra&show_icons=true&locale=en&theme=tokyonight" alt="brulibra" /> --!>
+<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brulibra&theme=tokyonight" alt="brulibra" /> --!>
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brulibra&theme=tokyonight" alt="brulibra" /> --!>
+ <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brulibra&theme=tokyonight" alt="brulibra" width="100%" height="auto"  /> 
+<!-- <img align="center" src="https://activity-graph.herokuapp.com/graph?username=brulibra&theme=tokyonight" alt="brulibra" width="100%" height="auto"  /> --!>
 <div/>
  
  
