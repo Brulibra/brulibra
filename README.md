@@ -22,7 +22,7 @@
  🗂️ Confira outros Projetos:
   * [Pop Time](https://github.com/Brulibra/SAP007-social-network)
   * [Ghibli's Tour](https://github.com/Brulibra/SAAP-Ghibli-s-Tour)
-  * [Burguer da Tia Nêna](https://github.com/Brulibra/sap007-burger-queen-api-client) 🚧
+  * [Talent Fest Solfácil(Hackathon)](https://github.com/Brulibra/tf-solfacil)
  
  ##
  <div style="display: inline_block">
