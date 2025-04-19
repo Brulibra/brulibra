@@ -19,10 +19,10 @@
 * Email: brulibra03@hotmail.com 
 * Discord: Brulibra #6990
  
- 🗂️ Confira outros Projetos:
-  * [Pop Time](https://github.com/Brulibra/SAP007-social-network)
-  * [Ghibli's Tour](https://github.com/Brulibra/SAAP-Ghibli-s-Tour)
-  * [Talent Fest Solfácil(Hackathon)](https://github.com/Brulibra/tf-solfacil)
+ 🗂️ Confira alguns Projetos:
+  * [Alura grimório](https://github.com/Brulibra/alura-grimorio)
+  * [Bootcamp IBM 2023](https://github.com/Brulibra/projeto-ibm?tab=readme-ov-file)
+  * [Talent Fest Solfácil(Hackathon - 2022)](https://github.com/Brulibra/tf-solfacil)
  
  ##
  <div style="display: inline_block">
