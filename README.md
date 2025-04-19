@@ -2,13 +2,14 @@
 
 ##
 
-👩🏻 Meu nome é Bruna de Paula, tenho 24 anos e sou de São Paulo, capital. Sou graduada em Audiovisual, e meu interesse pela tecnologia começou ainda na faculdade quando trabalhei em projetos que foram pouco a pouco me aproximando da área, logo que terminei a faculdade, fiz a transição de carreira para a área da tecnologia através do bootcamp da Laboratória, me formando desenvolvedora front-end <3
+👩🏻 Meu nome é Bruna de Paula, tenho 26 anos e sou de São Paulo, capital.
 
-<div align="center">
+<div align="left">
 
-📝 Atualmente estou estudando Flutter, e me aprofundando no universo mobile <img src="https://user-images.githubusercontent.com/97756820/210078489-daa3ae19-d8ed-415e-b41e-9f124e109fef.gif" height="100" width="auto">
+📝 Sou desenvolvedora mobile, com experiência em front-end e me aventurando no mundo do back-end. <img src="https://user-images.githubusercontent.com/97756820/210078489-daa3ae19-d8ed-415e-b41e-9f124e109fef.gif" height="80" width="auto">
 	</div>
 
+🔎 Sou uma eterna curiosa de como as coisas funcionam, e como as pessoas se relacionam com o mundo a sua volta.
 
 	
   ##
